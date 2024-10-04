@@ -20,8 +20,8 @@
 ## <b> 📫 &nbsp; My socials </b>
 
 <div>
-<p style="display: flex; gap: 20px;" align="left">
-<a href="gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Cliquez pour obtenir mon mail" height="55" width="50" /></a>
+<p style="display: flex; gap: 40px;" align="left">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=samuel.bruschet@epitech.eu&tf=cm" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Cliquez pour obtenir mon mail" height="55" width="50" /></a>
 <a href="https://fr.linkedin.com/in/samuel-bruschet-387766267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cliquez pour obtenir mon Linkedin" height="48" width="50" /></a>
 <!-- <a href="https://discord.gg/#2604" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Q524h6svpboS&format=png&color=6713d2" alt="#2604" height="55" width="50" /></a> -->
 </p>
